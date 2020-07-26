@@ -4,6 +4,7 @@
 ![Screenrecorder-2020-07-26-18-21-31-607(0) 1  (1)](https://user-images.githubusercontent.com/30715919/88479588-d8913000-cf6d-11ea-8bcc-4c3c0acc43bb.gif)
 
 # Concept used:
+## Navigation rail widget:
 A material widget that is meant to be displayed at the left or right of an app to navigate between a small number of views, typically between three and five.
 
 ## Getting Started
